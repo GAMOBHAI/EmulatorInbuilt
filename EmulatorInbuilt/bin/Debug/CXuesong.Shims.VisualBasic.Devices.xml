@@ -1,0 +1,23 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CXuesong.Shims.VisualBasic.Devices
+</name>
+</assembly>
+<members>
+<member name="T:CXuesong.Shims.VisualBasic.Devices.Computer">
+ <summary>
+ Cross-platform Computer stub class.
+ You can to install respective NuGet packages to enable extension methods on this class.
+ </summary>
+</member>
+<member name="T:CXuesong.Shims.VisualBasic.Devices.ServerComputer">
+ <summary>
+ Cross-platform Computer stub class.
+ You can to install respective NuGet packages to enable extension methods on this class.
+ </summary>
+ <seealso cref="T:CXuesong.Shims.VisualBasic.Devices.Computer"/>
+</member>
+</members>
+</doc>
